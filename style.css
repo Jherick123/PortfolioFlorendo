@@ -1,0 +1,228 @@
+body{
+margin:0;
+padding:0;
+font-family: sans-serif;
+background-color:black;
+}
+
+
+.container-text h1{
+color:white;
+position:absolute;
+top:23%;
+left:60%;
+font-size:80px;
+}
+
+.banner{
+margin:0;
+font-size:20px;
+color:white;
+}
+
+.banner-text h1{
+color:white;
+font-size:50px;
+}
+
+header{
+background-image: url("car2.jpg");
+background-repeat: no-repeat;
+background-position:center;
+background-size:cover;
+padding:30px;
+}
+
+
+
+.text{
+color:white;
+position:absolute;
+top:50%;
+left:50%;
+font-size:15px;
+}
+
+.btn{
+background-color:red;
+color:white;
+padding:5px 15px;
+border:none;
+border-radius:5px;
+text-decoration:none;
+font-size:20px;
+position:absolute;
+left:60%;
+bottom:35%;
+}
+
+.table1 table{
+border:3px solid white;
+margin:15px;
+}
+
+.table1 th{
+font-size:35px;
+padding:5px;
+background-color:maroon;
+color:white;
+}
+
+.table1 td{
+font-size:20px;
+padding:5px;
+color:white;
+background-color:gray;
+}
+
+.btns{
+background-color:maroon;
+color:black;
+padding:5px 15px;
+border:none;
+border-radius:5px;
+text-decoration:none;
+font-size:20px;
+position:absolute;
+left:75%;
+bottom:10%;
+}
+
+.btnss{
+background-color:maroon;
+color:black;
+padding:5px 15px;
+border:none;
+border-radius:5px;
+text-decoration:none;
+font-size:20px;
+position:absolute;
+left:85%;
+bottom:10%;
+}
+
+.program-text h1{
+border: 2px solid black;
+margin:0;
+color:gold;
+background-color:maroon
+}
+
+.abt{
+position:absolute;
+left:70%;
+font-size:20px;
+color:white;
+border: 2px solid white;
+background-color:gray;
+padding:8px;
+margin-right:25px;
+}
+
+.photo{
+margin-right: 30px;
+margin-left:8px;
+}
+
+.photo2{
+margin-right: 30px;
+margin-left:30px;
+
+}
+
+.photo3{
+margin-right:0;
+margin-left:30px;
+margin-bottom:0;
+}
+
+.bttn{
+background-color:gold;
+color:black;
+padding:6px 15px;
+border:none;
+border-radius:5px;
+text-decoration:none;
+font-size:20px;
+position:absolute;
+left:85%;
+bottom:58%;
+}
+
+.btnn{
+background-color:gold;
+color:black;
+padding:6px 15px;
+border:none;
+border-radius:5px;
+text-decoration:none;
+font-size:20px;
+position:absolute;
+left:74%;
+bottom:58%;
+}
+
+.head h1{
+background: url("header.jpg");
+background-repeat: no-repeat;
+background-position:center;
+background-size:cover;
+padding:50px;
+text-align:center;
+color:white;
+}
+
+.cars{
+text-align:center;
+padding:30px;
+
+}
+
+h2{
+color:white;
+background-color:Blue;
+border: 2px solid white;
+position:absolute;
+top:23%;
+left:41%;
+}
+
+footer{
+background-color:white;
+border:2px solid black;
+
+}
+
+.foot h1{
+border:2px solid black;
+
+}
+
+.idc{
+background-color:blue;
+color:white;
+padding:6px 15px;
+border:none;
+border-radius:5px;
+text-decoration:none;
+font-size:20px;
+position:absolute;
+left:30%;
+bottom:14%;
+}
+
+.idcw{
+background-color:blue;
+color:white;
+padding:6px 15px;
+border:none;
+border-radius:5px;
+text-decoration:none;
+font-size:20px;
+position:absolute;
+left:52%;
+bottom:14%;
+}
+
+
+
